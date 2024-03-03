@@ -19,5 +19,5 @@
 <code><img height="20" src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
 
-
+<p>$\huge{\rm{\color{#6580DD}열심히\ 공부하고\ 있어요!}}$</p>
 
