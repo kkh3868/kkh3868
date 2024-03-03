@@ -28,10 +28,8 @@
 </summary>
   <br>
   
-![Csharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=Csharp&logoColor=white)
-![CPP](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![Csharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=Csharp&logoColor=white) ![CPP](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 </details>
 
