@@ -12,15 +12,15 @@
 * 😎 평생 개발자로서 일을 하고 싶어요!
 
 
-<p>$\huge{\rm{\color{#5ad7b7}저는\ 이\ 기술스택에\ 능숙해요!}}$</p>
+<p>$\huge{\oldstyle{\color{#5ad7b7}저는\ 이\ 기술스택에\ 능숙해요!}}$</p>
 <code><img height="20" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=Csharp&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
 <p></p>
-************************************************************
-<p>$\huge{\rm{\color{#cd5c5c}열심히\ 공부하고\ 있어요!}}$</p>
+
+<p>$\huge{\oldstyle{\color{#cd5c5c}열심히\ 공부하고\ 있어요!}}$</p>
 <code><img height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"></code>
