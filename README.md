@@ -21,4 +21,5 @@
 <p></p>
 
 <p>$\huge{\rm{\color{#6580DD}열심히\ 공부하고\ 있어요!}}$</p>
+<code><img height="20" src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"></code>
 
