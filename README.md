@@ -11,33 +11,12 @@
 * 📙 웹 백엔드 개발에도 관심이 있어요!
 * 😎 평생 개발자로서 일을 하고 싶어요!
 ------------
-<details>
-<summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 내가 지금 배우는 ... 
-</summary>
-   <br>
-  
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
-
-</details>
-
-<details>
-<summary>
-  $\huge{\Bbb{\color{#5ad7b7}저는\ 이\ 기술스택에\ 능숙해요!}}$
-</summary>
-  <br>
-  
-![Csharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=Csharp&logoColor=white) ![CPP](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-</details>
-
-  <code><img height="20" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=Csharp&logoColor=white"></code>
-  <code><img height="20" src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
-  <code><img height="20" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
-  <code><img height="20" src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></code>
-  <code><img height="20" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
+<p>$\huge{\Bbb{\color{#5ad7b7}저는\ 이\ 기술스택에\ 능숙해요!}}$</p>
+<code><img height="20" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=Csharp&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
 
 <p></p>
 
