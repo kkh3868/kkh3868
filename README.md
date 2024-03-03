@@ -15,7 +15,8 @@
 <summary>
   <p>$\huge{\Bbb{\color{#5ad7b7}저는\ 이\ 기술스택에\ 능숙해요!}}$</p>
 </summary>
-  <br>  
+  <br>
+  ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
   ![Chsarp]("https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=Csharp&logoColor=white")
   <code><img height="20" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=Csharp&logoColor=white"></code>
   <code><img height="20" src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
