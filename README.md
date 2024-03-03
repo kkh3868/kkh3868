@@ -24,7 +24,7 @@
 
 <details>
 <summary>
-  <p>$\huge{\Bbb{\color{#5ad7b7}저는\ 이\ 기술스택에\ 능숙해요!}}$</p>
+  $\huge{\Bbb{\color{#5ad7b7}저는\ 이\ 기술스택에\ 능숙해요!}}$
 </summary>
   <br>
   
