@@ -10,7 +10,9 @@
 * ⚡ DX와 자동화 환경 구축에 관심이 많습니다
 * 📙 웹 백엔드 개발에도 관심이 있어요!
 * 😎 평생 개발자로서 일을 하고 싶어요!
- 
+
+
+이 기술스택에 능숙해요!
 <code><img height="20" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=Csharp&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
