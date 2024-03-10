@@ -3,7 +3,7 @@
 
 
 [![Tech Blog Badge](https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/codingfarm)](https://blog.naver.com/codingfarm)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://kkh3868.notion.site/Portfolio-59debe89a94d4552b1c5363b16657adb)](https://fancy-gibbon-029.notion.site/Portfolio-59debe89a94d4552b1c5363b16657adb)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://kkh3868.notion.site/Portfolio-59debe89a94d4552b1c5363b16657adb)](https://kkh3868.notion.site/Portfolio-59debe89a94d4552b1c5363b16657adb)
 
 
 * 💻 아직 배울게 많고, 배우고 싶은 것도 많은 R&D 주니어 응용프로그램 개발자입니다
