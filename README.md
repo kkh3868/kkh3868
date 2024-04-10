@@ -32,3 +32,6 @@
 <code><img height="20" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></code>
+
+<code><img height="20" src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"></code>
